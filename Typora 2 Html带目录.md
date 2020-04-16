@@ -5,6 +5,9 @@
 <script type="text/javascript" src="2html/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="2html/2html.js"></script>
 <link rel="stylesheet" type="text/css" href="2html/style.css">
+
+自用
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
 ```
 
 > **特别说明**
@@ -24,7 +27,7 @@
 
 ### jquery可在官网下载
 
-### 2thml.js
+### 导航.js
 ```javascript
 
 //是否显示导航栏
